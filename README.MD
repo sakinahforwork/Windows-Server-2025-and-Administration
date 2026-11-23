@@ -6,9 +6,9 @@ List of Projects:
 
 
 
-1.Windows Server Installation
+1.Windows Server 2025 Installation \& Basic Configuration
 
-2.Server Manager \& basic configuration.- Hostname, Static IP, Roles and Features.
+2.Server Manager \& Roles and Features.
 
 3.Active Directory Domain Services (AD DS )
 
@@ -45,12 +45,4 @@ Main focus:
 \#03 - DHCP - Automatically assigns IP addresses.
 
 \#04 - Group Policy - Centrally manages computer and user settings.
-
-
-
-
-
-
-
-
 
