@@ -6,7 +6,7 @@ List of Projects:
 
 
 
-1.[Windows Server 2025 Installation \& Basic Configuration](https://github.com/sakinahforwork/Windows-Server-2025-and-Administration/tree/main/Docs/1.Windows%20Server%202025%20Installation%20%26%20Basic%20Configuration)
+[1.Windows Server 2025 Installation \& Basic Configuration](https://github.com/sakinahforwork/Windows-Server-2025-and-Administration/tree/main/Docs/1.Windows%20Server%202025%20Installation%20%26%20Basic%20Configuration)
 
 2.Server Manager \& Roles and Features.
 
