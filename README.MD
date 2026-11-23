@@ -2,27 +2,25 @@
 
 [1.Windows Server 2025 Installation \& Basic Configuration](https://github.com/sakinahforwork/01-Windows-Server-Basic-Installation-and-Configuration)
 
-2.Server Manager \& Roles and Features.
+2.Server Manager, Roles and Features \& Active Directory Domain Services (AD DS).
 
-3.Active Directory Domain Services (AD DS )
+3.DNS Server.
 
-4.DNS Server.
+4.DHCP Server.
 
-5.DHCP Server.
+5.File and Storage Services.
 
-6.File and Storage Services.
+6.Shared folders and NTFS permissions.
 
-7.Shared folders and NTFS permissions.
+7.Group Policy Management.
 
-8.Group Policy Management.
+8.Windows Server Firewall.
 
-9.Windows Server Firewall.
+9.Remote Server Administration.
 
-10.Remote Server Administration.
+10.Windows Server Backup.
 
-11.Windows Server Backup.
-
-12.PowerShell administration.
+11.PowerShell administration.
 
 
 
