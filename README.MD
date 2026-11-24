@@ -1,6 +1,6 @@
 ## List of topics:
 
-[1.Windows Server 2025 Installation \& Basic Configuration](https://github.com/sakinahforwork/01-Windows-Server-Basic-Installation-and-Configuration)
+[1.Windows Server 2025 Installation \& Basic Configuration](01-Windows-Server-Basic-Installation-and-Configuration.md)
 
 2.Server Manager, Roles and Features \& Active Directory Domain Services (AD DS).
 
